@@ -3,6 +3,7 @@ using namespace std;
 vector<pair<int, int>> twoSum(vector<int> &arr, int target, int n)
 {
     // Write your code here.
+    // In this solution the T.C exceeds than 1s.
     pair<int, int> p;
     vector<pair<int, int>> ans;
     sort(arr.begin(), arr.end());
