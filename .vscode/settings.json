@@ -7,6 +7,15 @@
     "xutility": "cpp",
     "vector": "cpp",
     "type_traits": "cpp",
-    "xlocale": "cpp"
+    "xlocale": "cpp",
+    "exception": "cpp",
+    "ios": "cpp",
+    "istream": "cpp",
+    "iterator": "cpp",
+    "memory": "cpp",
+    "ostream": "cpp",
+    "streambuf": "cpp",
+    "tuple": "cpp",
+    "utility": "cpp"
   }
 }
