@@ -1,4 +1,5 @@
-<h1><a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a> </h1>
+<h1><a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a> </h1> Leetcode
+<h1><a href="https://www.codingninjas.com/codestudio/problems/two-sum_839653">  Two Sum </a> </h1> CodeStudio
 
 <p> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. </p>
 
@@ -26,3 +27,4 @@ Output: [0,1]
 -109 <= nums[i] <= 109
 -109 <= target <= 109
 Only one valid answer exists
+
