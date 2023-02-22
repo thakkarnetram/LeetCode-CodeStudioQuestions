@@ -1,12 +1,12 @@
-<h1>1. Two Sum</h1>
+<h1><a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a> </h1>
 
-Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.
+<p> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. </p>
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
 
 You can return the answer in any order.
 
-Example 1:
+<h3> Example 1: </h3>
 
 Input: nums = [2,7,11,15], target = 9
 Output: [0,1]
@@ -20,7 +20,7 @@ Example 3:
 Input: nums = [3,3], target = 6
 Output: [0,1]
 
-Constraints:
+ <h3> Constraints: </h3>
 
 2 <= nums.length <= 104
 -109 <= nums[i] <= 109
