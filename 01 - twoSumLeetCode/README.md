@@ -1,6 +1,8 @@
 <h1><a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a> </h1> Leetcode
 <h1><a href="https://www.codingninjas.com/codestudio/problems/two-sum_839653">  Two Sum </a> </h1> CodeStudio
 
+<hr>
+
 <p> Given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target. </p>
 
 You may assume that each input would have exactly one solution, and you may not use the same element twice.
