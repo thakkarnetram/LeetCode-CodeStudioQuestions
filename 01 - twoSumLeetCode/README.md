@@ -1,5 +1,8 @@
-<h1><a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a> </h1> Leetcode
-<h1><a href="https://www.codingninjas.com/codestudio/problems/two-sum_839653">  Two Sum </a> </h1> CodeStudio
+Leetcode
+<h1><a href="https://leetcode.com/problems/two-sum/"> 1. Two Sum </a> </h1> 
+<hr>
+CodeStudio
+<h1><a href="https://www.codingninjas.com/codestudio/problems/two-sum_839653">  Two Sum </a> </h1> 
 
 <hr>
 
